@@ -35,11 +35,11 @@
   margin-bottom: 20px;
 }
 .jumbotron img {
-  width: 260px;
+  width: 200px;
   height: auto;
   vertical-align: middle;
   border: 10px solid #eee;
-  border-radius: 50%;
+  border-radius: 130px;
 }
 .jumbotron p {
   margin-top: 10px;
