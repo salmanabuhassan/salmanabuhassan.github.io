@@ -39,7 +39,7 @@
   height: auto;
   vertical-align: middle;
   border: 10px solid #eee;
-  border-radius: 130px;
+  border-radius: 50%;
 }
 .jumbotron p {
   margin-top: 10px;
