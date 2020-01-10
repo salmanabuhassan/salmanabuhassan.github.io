@@ -1,13 +1,14 @@
 #jumbo1 {
   text-align: left;
-  background-image: url('../images/gradient2.jpg');
+  /*background-image: url('../images/gradient2.jpg');*/
+  background-image: url('../images/blue2.jpg');
   background-repeat: repeat-x;
   background-size: 70% 100%;
   margin: 0px;
   color: #fff;
 }
 .jumbotron {
-  background-color: white;
+  background-color:whitesmoke;
 }
 .jumbotron h1 {
   color: #5a5a5a;
