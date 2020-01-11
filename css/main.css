@@ -54,6 +54,7 @@ font-size: 21px;
 font-weight: 200;
 text-align: left;
 }
+
 @media (max-width: 767px) {
   .jumbotron {
     margin-top: 25px;
