@@ -1,14 +1,14 @@
 #jumbo1 {
   text-align: left;
 
-  background-image: url('../images/blue2.jpg');
+  background-image: url('../images/b.jpg');
   background-repeat: repeat-x;
   background-size: 70% 100%;
   margin: 0px;
   color: #fff;
 }
 .jumbotron {
-  background-color:whitesmoke;
+  background-color:white;
 }
 .jumbotron h1 {
   color: #5a5a5a;
@@ -45,6 +45,12 @@
 .jumbotron p {
   margin-top: 10px;
   text-align: left;
+}
+#intro p{
+margin-bottom: 15px;
+font-size: 21px;
+font-weight: 200;
+text-align: left;
 }
 @media (max-width: 767px) {
   .jumbotron {
