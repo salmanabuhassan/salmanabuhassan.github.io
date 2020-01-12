@@ -1,6 +1,5 @@
 #jumbo1 {
   text-align: left;
-
   background-image: url('../images/b.jpg');
   background-repeat: repeat-x;
   background-size: 70% 100%;
@@ -48,7 +47,7 @@ hr{
   width: 200px;
   height: auto;
   vertical-align: middle;
-  border: 10px solid #eee;
+  border: 10px solid #eeee;
   border-radius: 50%;
 }
 .jumbotron p {
