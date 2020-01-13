@@ -93,8 +93,13 @@ text-align: left;
     margin-top: 15px;
     text-align: center;
   }
+  #sep{
+    border-bottom: 2px solid black;
+  }
 }
-.col-md-2{
+
+
+.resume .col-md-2{
   background-color: darkgray;
   border: 1px solid;
   border-color: black;
