@@ -96,6 +96,10 @@ text-align: left;
   #sep{
     border-bottom: 2px solid black;
   }
+  #vid{
+    width: 250px;
+    height: 180px;
+  }
 }
 
 
