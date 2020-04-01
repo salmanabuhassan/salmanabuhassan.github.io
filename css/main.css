@@ -101,7 +101,9 @@ text-align: left;
     height: 180px;
   }
 }
-
+#vol{
+  border: 2px solid black;
+}
 
 .resume .col-md-2{
   background-color: darkgray;
